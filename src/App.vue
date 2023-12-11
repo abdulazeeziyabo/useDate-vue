@@ -63,5 +63,8 @@ const handleAddMonth = ()=>{
   font-weight: 400;
   
 }
+.day-wrapper{
+  
+}
 </style>
 
