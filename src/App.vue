@@ -54,6 +54,7 @@ const handleAddMonth = ()=>{
 
 <style>
 .wrapper{
+  margin-top: 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -64,7 +65,7 @@ const handleAddMonth = ()=>{
   
 }
 .day-wrapper{
-  
+
 }
 </style>
 
